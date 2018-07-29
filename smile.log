@@ -1,0 +1,15 @@
+[ 10.06.2018 - 21:29:17 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 10.06.2018 - 21:29:17 ]
+    (MSG) [2] in SMILExtract : config file is: F:/语音情感识别/语音特征提取工具/opensmile-2.3.0/config/42/vector\vector_42.conf
+[ 10.06.2018 - 21:29:17 ]
+    (MSG) [2] in cComponentManager : successfully registered 95 component types.
+[ 10.06.2018 - 21:29:17 ]
+    (MSG) [2] in instance 'arffsink' : writing ARFF header (504 features)...
+[ 10.06.2018 - 21:29:17 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (18 component instances were finalised, 1 data memories were finalised)
+[ 10.06.2018 - 21:29:17 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 10.06.2018 - 21:29:17 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 434 ticks.
